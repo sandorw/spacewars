@@ -1,0 +1,10 @@
+Main things to figure out:
+  - graphics, how to display state, dynamic camera that can track relevant space
+  - how to handle multi-tick actions and state rather than deriving the desired action at each tick
+  - figure out complexity of needed algorithms for autopilot, mainly collision avoidance
+  - quickly get to the point of doing some basic tests to see how feasible it is to actually hit anything
+  - physics constants, game spacial and time scale
+  
+Future ideas:
+  - Stealth mines can be dropped in chases, ships must toggle power to sensors to detect them, then destroy or avoid them
+  - Set of training missions for potential manual control or autopilot training
